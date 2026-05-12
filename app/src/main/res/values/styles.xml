@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.GrameenLight" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#2F7D32</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">#F6F8F4</item>
+    </style>
+</resources>
